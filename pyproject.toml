@@ -7,6 +7,7 @@ license = "APACHE LICENSE, VERSION 2.0"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+great-expectations = "^0.15.4"
 
 [tool.poetry.dev-dependencies]
 
