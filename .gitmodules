@@ -1,0 +1,3 @@
+[submodule "ge_tutorials"]
+	path = ge_tutorials
+	url = https://github.com/superconductive/ge_tutorials
